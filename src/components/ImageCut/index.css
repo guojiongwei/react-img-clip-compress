@@ -1,0 +1,11 @@
+.image-cut-operation-icon {
+  color: #555;
+  cursor: pointer;
+  margin-left: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.image-cut-operation-icon:hover {
+  color: #1890ff;
+}
